@@ -1,3 +1,4 @@
-This fixes broken Hebrew scroll bars when iOS is set to English. (Or is it a feature?)
+This fixes broken Hebrew scroll bars (with AddressBook framework, that is where you see your contacts for example the Phone app, Contacts app) when iOS is set to English. (Or is it a feature?)
+After installing switch iOS to Hebrew and then back to English for changes to take effect.
 
 To compile this use Theos http://iphonedevwiki.net/index.php/Theos/Getting_Started
